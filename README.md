@@ -16,7 +16,7 @@ How to install:
 	
 exemple:
 	
-	![1](https://raw.githubusercontent.com/gigi798/nayuta-no-kiseki-hd-texture-project/master/screenshot/1.png)
+	![Alt text](screenshot/2.png?raw=true "1")
 	2(screenshot/2.png?raw=true "2")
 	3(screenshot/3.png?raw=true "3")
 
