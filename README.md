@@ -14,9 +14,12 @@ How to install:
     Copy the NPJH50625 folder from this repo in to your ppsspp\memstick\PSP\TEXTURES folder
     Run the game and enjoy!
     
-exemple:
-	![error](/screenshot/1.png)
-	![error](/screenshot/2.png)
-	![error](/screenshot/3.png)
+exemple
+
+![error](/screenshot/1.png)
+	
+![error](/screenshot/2.png)
+
+![error](/screenshot/3.png)
 
 Here are some screenshots of some of the progress so far: !!!!!!!!WORKING ON IT!!!!!!!! ;D
