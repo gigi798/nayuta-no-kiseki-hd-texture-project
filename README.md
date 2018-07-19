@@ -13,9 +13,12 @@ How to install:
     Enable Settings -> Tools -> Developer Options -> Replace Textures
     Copy the NPJH50625 folder from this repo in to your ppsspp\memstick\PSP\TEXTURES folder
     Run the game and enjoy!
-	exemple
 	
-	1
+exemple:
+	
+	1(screenshot/1.png?raw=true "1")
+	2(screenshot/2.png?raw=true "2")
+	3(screenshot/3.png?raw=true "3")
 
 	
 Here are some screenshots of some of the progress so far: !!!!!!!!WORKING ON IT!!!!!!!! ;D
