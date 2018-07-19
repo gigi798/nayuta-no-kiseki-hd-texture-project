@@ -18,7 +18,7 @@ exemple
 
 ![error](/screenshot/1.png)
 	
-![error](/screenshot/2.png)
+![error](/screenshot/2..png)
 
 ![error](/screenshot/3.png)
 
