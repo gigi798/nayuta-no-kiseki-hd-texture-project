@@ -11,8 +11,11 @@ Note, the textures were made using the eng patched version of the game.
 How to install:
 
     Enable Settings -> Tools -> Developer Options -> Replace Textures
-    Copy the Textures folder from this repo in to your memstick/PSP directory
+    Copy the NPJH50625 folder from this repo in to your ppsspp\memstick\PSP\TEXTURES folder
     Run the game and enjoy!
+	exemple
+	
+	1
 
 	
 Here are some screenshots of some of the progress so far: !!!!!!!!WORKING ON IT!!!!!!!! ;D
